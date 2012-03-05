@@ -1,0 +1,25 @@
+/*
+============================================================================
+ Name        : KockaRajzolo.mmp
+ Author      : Hamor Tamas
+ Copyright   : Your copyright notice
+ Description : This is the project specification file for KockaRajzolo.
+============================================================================
+*/
+
+TARGET          KockaRajzolo.dll
+TARGETTYPE      dll
+UID             0x00000000 0x0D156811
+EXPORTUNFROZEN
+
+USERINCLUDE     ..\inc
+SYSTEMINCLUDE   \epoc32\include
+
+SOURCEPATH      ..\src
+
+SOURCE          KockaRajzolo.cpp
+SOURCE          KockaRajzoloDllMain.cpp
+
+LIBRARY         euser.lib
+
+

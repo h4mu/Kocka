@@ -1,0 +1,10 @@
+EXPORTS
+	??1CKockaRajzolo@@UAE@XZ @ 1 NONAME ; CKockaRajzolo::~CKockaRajzolo(void)
+	?ExampleFuncAddCharL@CKockaRajzolo@@QAEXABVTChar@@@Z @ 2 NONAME ; void CKockaRajzolo::ExampleFuncAddCharL(class TChar const &)
+	?ExampleFuncRemoveLast@CKockaRajzolo@@QAEXXZ @ 3 NONAME ; void CKockaRajzolo::ExampleFuncRemoveLast(void)
+	?ExampleFuncString@CKockaRajzolo@@QBE?BVTPtrC16@@XZ @ 4 NONAME ; class TPtrC16 const CKockaRajzolo::ExampleFuncString(void) const
+	?NewL@CKockaRajzolo@@SAPAV1@PAVCKockaAppView@@@Z @ 5 NONAME ; class CKockaRajzolo * CKockaRajzolo::NewL(class CKockaAppView *)
+	?NewLC@CKockaRajzolo@@SAPAV1@PAVCKockaAppView@@@Z @ 6 NONAME ; class CKockaRajzolo * CKockaRajzolo::NewLC(class CKockaAppView *)
+	?Rajzol@CKockaRajzolo@@QAEXXZ @ 7 NONAME ; void CKockaRajzolo::Rajzol(void)
+	?Version@CKockaRajzolo@@QBE?AVTVersion@@XZ @ 8 NONAME ; class TVersion CKockaRajzolo::Version(void) const
+

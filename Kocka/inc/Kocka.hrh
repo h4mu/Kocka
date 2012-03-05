@@ -1,0 +1,22 @@
+/*
+============================================================================
+ Name        : Kocka.hrh
+ Author      : Hamor Tamas
+ Copyright   : Your copyright notice
+ Description : This file contains declarations for constants of Kocka.
+               The file can be included in C++ or resource file.
+============================================================================
+*/
+#ifndef __KOCKA_HRH__
+#define __KOCKA_HRH__
+
+#define _UID3 0xE66CF47D
+
+// Kocka enumerate command codes
+enum TKockaIds
+    {
+    ECommand1 = 0x6001, // start value must not be 0
+    ECommand2
+    };
+
+#endif // __KOCKA_HRH__

@@ -1,0 +1,16 @@
+/*
+-----------------------------------------------------------------------------
+
+    Bld.inf - build info file for KockaRajzolo
+    
+-----------------------------------------------------------------------------
+*/
+
+PRJ_PLATFORMS
+WINSCW THUMB
+
+PRJ_EXPORTS
+..\inc\KockaRajzolo.h
+
+PRJ_MMPFILES
+KockaRajzolo.mmp

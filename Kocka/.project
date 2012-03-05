@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Kocka</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>com.symbian.cdt.core.symbiannature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Kocka_S60_3_0_Emulator_Debug_[S60_3rd_MR].exe</name>
+			<type>1</type>
+			<location>f:/Symbian/9.1/S60_3rd_MR/epoc32/release/WINSCW/UDEB/Kocka.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
